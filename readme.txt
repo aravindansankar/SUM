@@ -1,1 +1,1 @@
-This is a java
+New Program
