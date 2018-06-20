@@ -9,8 +9,8 @@ Scanner Sc=new Scanner(System.in);
 a=Sc.nextInt();
 b=Sc.nextInt();
 c=a+b;
-System.out.println(c+"total");
-for(int i=0;i<20;i++)
+System.out.println(c+"="+"total");
+for(int i=0;i<10;i++)
 System.out.println("Hello GitHub");
 }
 }
